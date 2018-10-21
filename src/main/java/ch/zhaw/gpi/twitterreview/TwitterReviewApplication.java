@@ -17,6 +17,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * application.properties 6. Die Webapps (Tasklist, Admin, Cockpit) deployen 7.
  * Gefundene Prozesse (z.B. ExampleProcess) deployen 8. Alle Komponenten starten
  * => unter localhost:8080 ist Tomcat erreichbar *
+ * 
+ * Test
  */
 @SpringBootApplication
 @EnableProcessApplication
